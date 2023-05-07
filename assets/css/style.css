@@ -72,6 +72,7 @@ button {
     text-align: center;
     border: solid 1px none;
     background: white;
+    height: 50%;
 
 
 }
@@ -87,4 +88,9 @@ button {
     display: flex;
     flex-direction: column;
     padding: 5%;
+}
+
+
+.content1 img{
+    height: 61%;
 }
